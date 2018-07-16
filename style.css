@@ -1,0 +1,33 @@
+* {
+	box-sizing: border-box;
+ 
+}
+
+div {
+	margin: 50px auto;
+	text-align: center;
+}
+
+button {
+	background-color: #1da1f2;
+	color: white;
+	width: 70px;
+	height: 25px;
+	border: none;
+	border-radius: 5px;
+}
+
+button:hover {
+	cursor: pointer;
+	background-color: #188bce;
+}
+
+span {
+	background-color: gray;
+	color: white;
+	border-radius: 10px;
+	width: 200px;
+	display: inline-block;
+	margin: 20px;
+	padding:20px;
+}
